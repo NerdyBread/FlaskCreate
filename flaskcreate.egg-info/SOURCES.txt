@@ -1,0 +1,8 @@
+main.py
+setup.py
+flaskcreate.egg-info/PKG-INFO
+flaskcreate.egg-info/SOURCES.txt
+flaskcreate.egg-info/dependency_links.txt
+flaskcreate.egg-info/entry_points.txt
+flaskcreate.egg-info/requires.txt
+flaskcreate.egg-info/top_level.txt

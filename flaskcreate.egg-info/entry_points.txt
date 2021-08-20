@@ -1,0 +1,4 @@
+
+        [console_scripts]
+        flaskcreate=main:create_app
+    
